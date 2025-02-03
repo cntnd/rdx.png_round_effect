@@ -1,0 +1,8 @@
+package: pnground
+version: '1.0.0'
+author: 'Thomas D Ascoli <thomas@dasco.li>'
+supportpage: https://github.com/cntnd/rdx.png_round_effect
+requires:
+  redaxo: '^5.17.1'
+  php:
+    version: '>=8.1, <9'

@@ -1,0 +1,7 @@
+pnground = PNG Rounded Corners
+
+pnground_png_round = Image: round corners (transparent PNG)
+pnground_png_round_topleft = Top left
+pnground_png_round_topright = Top right
+pnground_png_round_bottomleft = Bottom left
+pnground_png_round_bottomright = Bottom right

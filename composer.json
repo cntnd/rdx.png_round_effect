@@ -1,0 +1,13 @@
+{
+    "name": "cntnd/rdx.png_round_effect",
+    "description": "Redaxo Media Manager Effect for rounded corners for PNG with transparency",
+    "type": "redaxo-addon",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thomas D'Ascoli",
+            "email": "thomas@dasco.li"
+        }
+    ],
+    "require": {}
+}
